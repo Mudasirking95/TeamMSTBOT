@@ -14,7 +14,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN GIFTED-MDv2 』*
+║ *『 WOW YOU'VE CHOSEN 𝗠𝗦𝗧-95 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
@@ -121,7 +121,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE WITH GIFTED TECH
+    //// MADE WITH 𝗠𝗦𝗧 TECH
 
 });
 
